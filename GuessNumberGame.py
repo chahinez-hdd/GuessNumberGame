@@ -8,9 +8,9 @@ for j in range(0,10):
         break
     
     if int(x)<int(i) :
-        print("le nombre est plus petit! ")
-    else  :
         print("le nombre est plus grand! ")
+    else  :
+        print("le nombre est plus petit! ")
 
 
 if int(x)==int(i) :
